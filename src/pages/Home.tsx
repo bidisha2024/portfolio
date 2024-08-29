@@ -78,7 +78,7 @@ const Home: React.FC = () => {
               <span className="writing-animation">I'm <span className="text-teal-600">BIDISHA GARAI</span>, Software Developer</span>
             </h2>
             <p className="text-gray-700 leading-relaxed text-sm md:text-base lg:text-lg mx-auto md:mx-0">
-              Hi, I'm Bidisha Garai, a Java Developer with a passion for creating robust and scalable applications. I completed my Master of Computer Applications (MCA) in 2023 and have since been dedicated to expanding my knowledge and skills in software development.
+              Hi, I'm Bidisha Garai, a Java Developer with a passion for creating robust and scalable applications. I completed my Master of Computer Applications (MCA) in 2021 and have since been dedicated to expanding my knowledge and skills in software development.
               <br /><br />
               My expertise includes various frameworks and tools, and I strive to deliver high-quality solutions and innovative ideas. I am enthusiastic about solving complex problems and contributing to projects that drive technological advancements.
             </p>
